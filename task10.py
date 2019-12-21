@@ -1,0 +1,11 @@
+strana = "Kyrgyzstan"
+print(strana[2])
+print(strana[1])
+print(strana[0:5])
+print(strana[0:8])
+print(strana[0:-1:2])
+len_ = len(strana)
+print(strana[1::2])
+print(strana[::-1])
+print(strana[::-2])
+print(len(strana))
